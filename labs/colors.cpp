@@ -1,4 +1,4 @@
-#include "Colors.h"
+#include "colors.h"
 
 
 QColor color_material[(int) type_material::COUNT_MATERIAL] = {

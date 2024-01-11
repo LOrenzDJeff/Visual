@@ -1,4 +1,4 @@
-#include "Formuls.h"
+#include "math.h"
 
 double formula(double f, double d) {
     return 28 + 22 * log10(f) + 20 * log10(d);

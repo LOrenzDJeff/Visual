@@ -37,5 +37,4 @@ private:
     QGroupBox *gradientGroupBox_;
 
 };
-//void add_material_to_map(int **map, int px, int py, int sx, int sy, int type);
 #endif // MAINWINDOW_H
